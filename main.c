@@ -1,7 +1,13 @@
-/**
- * yt-get: YouTube Playlist Downloader
- * Features: Progress bar, per-session folders, proper cleanup
- */
+/*******************************************************************
+ * Copyright (c) 2026 Petar Ilic. All rights reserved.
+ * Author: Petar Ilic
+ * E-mail: office@petarilic.com
+ * Date: 17.04.2026
+ * Version: 1.4
+ * Licence: MIT
+ * Description: YouTube Playlist Downloader
+ *              Progress bar, per-session folders, proper cleanup
+ *******************************************************************/
 
 #define _CRT_SECURE_NO_WARNINGS
 #define _WIN32_WINNT 0x0501
